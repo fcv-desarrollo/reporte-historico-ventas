@@ -1,4 +1,4 @@
-# reporte-hstorico-ventas
+# reporte-historico-ventas
 
 ## Tabla de contenido
 
