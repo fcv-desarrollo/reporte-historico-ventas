@@ -7,14 +7,13 @@
 3. [Librerias](#librerias)
 4. [Instalacion](#instalacion)
 5. [Estructura de directorios](#estructura-de-directorios)
----
+
 ## Descripcion
 
 La aplicacion genera un archivo .xls (Excel) el cual contiene la información de todas las ventas generadas en la historia de **CrediContino**.
 
 Este reporte puede ser generado en cualquier momento, pero usualmente se consulta cada mes. El horario para ejecutarse debería ser después de las 11:00 hrs para obtener la información actualizada del día inmediato anterior.
 
----
 ## Version
 
 **Version actual: 1.1**
@@ -23,7 +22,6 @@ Desarrollado en Java Platform JDK 1.8
 
 El proyecto actualmente se encuentra en producción y es una versión estable. No obstante, podría tener cambios en el futuro.
 
----
 ## Librerias
 
 Las librerías utilizadas para este proyecto son:
@@ -39,7 +37,6 @@ Las librerías utilizadas para este proyecto son:
 - swingx-all-1.6.4.jar
 - xmlbeans-3.1.0.jar
 
----
 ## Instalacion
 
 - Para la instalacion es necesario contar con las herramientas de desarrollo:
